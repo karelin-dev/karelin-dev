@@ -7,7 +7,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ivan-dark.svg">
-  <img src="assets/ivan-light.svg" width="100%" alt="const ivan = { role: 'веб-разработчик', since: 2022, layout: HTML, SCSS, Tailwind, БЭМ, Bootstrap; js: JavaScript, Vue, Nuxt, React; cms: WordPress, 1С-Битрикс, MODX; backend: PHP, Laravel, MySQL, Python; infra: Docker, nginx, Cloudflare, DNS, SSL; format: 'удалённо, полная занятость' }">
+  <img src="assets/ivan-light.svg" width="600" alt="const ivan = { role: 'веб-разработчик', since: 2022, layout: HTML, SCSS, Tailwind, БЭМ, Bootstrap; js: JavaScript, Vue, Nuxt, React; cms: WordPress, 1С-Битрикс, MODX; backend: PHP, Laravel, MySQL, Python; infra: Docker, nginx, Cloudflare, DNS, SSL; format: 'удалённо, полная занятость' }">
 </picture>
-
-<sub>Код работ: в закреплённых репозиториях ниже.</sub>
